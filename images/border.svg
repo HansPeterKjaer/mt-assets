@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:se="http://svg-edit.googlecode.com" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="2500" height="1">                                    
+	<title>mt-bg</title>
+	<!--rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="#FFFFFF" stroke="none"/-->                                
+	<g class="">
+		<path stroke="rgba(0,0,0,0.5)" stroke-opacity="1" stroke-width="2" stroke-dasharray="none" stroke-linejoin="butt" stroke-linecap="butt" stroke-dashoffset="" opacity="1" d="M0,0.5H2400" id="svg_1"/>
+		<path stroke="rgba(0,0,0,0.5)" stroke-opacity="1" stroke-width="2" stroke-dasharray="none" stroke-linejoin="butt" stroke-linecap="butt" stroke-dashoffset="" opacity="1" d="M2405,0.5H2415" id="svg_2"/>
+		<path stroke="rgba(0,0,0,0.5)" stroke-opacity="1" stroke-width="2" stroke-dasharray="none" stroke-linejoin="butt" stroke-linecap="butt" stroke-dashoffset="" opacity="1" d="M2420,0.5H2430" id="svg_3"/>
+		<path stroke="rgba(0,0,0,0.5)" stroke-opacity="1" stroke-width="2" stroke-dasharray="none" stroke-linejoin="butt" stroke-linecap="butt" stroke-dashoffset="" opacity="1" d="M2435,0.5H2500" id="svg_4"/>
+	</g>
+</svg>
